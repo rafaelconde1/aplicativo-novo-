@@ -1,0 +1,6 @@
+streamlit==1.45.1
+pandas==2.2.3
+numpy==2.2.6
+streamlit-qrcode-scanner==0.1.2
+pytz
+

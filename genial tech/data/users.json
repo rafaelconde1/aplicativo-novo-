@@ -1,0 +1,18 @@
+{
+    "admin": {
+        "password": "genial2025",
+        "is_admin": true
+    },
+    "joao123": {
+        "password": "senha123",
+        "is_admin": false
+    },
+    "maria456": {
+        "password": "senha456",
+        "is_admin": false
+    },
+    "teste789": {
+        "password": "senha789",
+        "is_admin": false
+    }
+}
